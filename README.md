@@ -1,2 +1,0 @@
-# Matplotlib-Challenge
- Matplotlib Homework
